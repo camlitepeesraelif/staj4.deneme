@@ -1,0 +1,16 @@
+{
+  "name": "staj4.deneme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "esra elif çamlıtepe",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moongose": "^1.0.0"
+  }
+}
